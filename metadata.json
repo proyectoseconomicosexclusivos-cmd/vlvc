@@ -1,0 +1,5 @@
+{
+  "name": "Ventanas Perfectas - Configurador y Pedidos",
+  "description": "Una aplicación web completa para diseñar ventanas a medida, obtener una cotización instantánea, realizar pedidos y gestionar el pago. Incluye un asistente de diseño impulsado por IA para simplificar el proceso.",
+  "requestFramePermissions": []
+}

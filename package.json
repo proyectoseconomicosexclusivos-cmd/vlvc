@@ -1,0 +1,10 @@
+{
+  "name": "ventanas-perfectas-netlify",
+  "version": "1.0.0",
+  "description": "Dependencias para las funciones serverless de Netlify.",
+  "private": true,
+  "dependencies": {
+    "@google/genai": "^1.29.0",
+    "@netlify/functions": "2.7.0"
+  }
+}
